@@ -1,0 +1,16 @@
+.genre
+{
+    color:darkturquoise;
+    border-radius:2px solid;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    border: 2px solid;
+    border-radius: 5px;
+}
+.genre:hover
+{ 
+    color:black;
+    background-color: darkturquoise;
+    box-shadow: 0 0 10px darkturquoise,0 0 10px darkturquoise,0 0 10px darkturquoise;
+    border:0px;
+}

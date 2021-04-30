@@ -1,0 +1,42 @@
+.image
+{
+    width: 300px;
+    border-radius: 20px;
+}
+.list-group-item
+{
+    background-color: #020d18;
+    border:3px solid;
+    border-color:rgb(18, 18, 34);
+    border-radius: 5px;
+    text-align: left;
+    padding: 15px 15px 15px;
+
+}
+.page
+{
+    padding-top: 50px;
+}
+.movieName
+{
+    margin-bottom: 25px;
+    text-align: left;
+}
+.moviePlayer
+{
+    margin-top: 30px;
+    text-align: center;
+   
+    
+}
+.player
+{
+    border: 2px solid;
+    border-radius:5px;
+    
+}
+.player:hover
+{
+    transform: scale(1.1);
+    box-shadow: 5px 5px 30px;
+}

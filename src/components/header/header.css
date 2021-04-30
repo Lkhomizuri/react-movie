@@ -1,0 +1,32 @@
+#navbar
+{
+    padding-bottom: 2%;
+}
+.navbar-link
+{
+    color:darkturquoise;
+    
+}
+.navbar-link:hover
+{
+    background-color:darkturquoise;
+    color:rgb(5, 8, 8);
+    border-radius: 10px;
+}
+.navbar-brand
+{
+    color:darkturquoise;
+
+}
+.navbar-brand:hover
+{
+    background-color:darkturquoise;
+    color:rgb(5, 8, 8);
+    border-radius: 5px;
+
+}
+
+.nav-item
+{
+    color:darkturquoise;
+}

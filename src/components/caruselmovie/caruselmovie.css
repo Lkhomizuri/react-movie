@@ -1,0 +1,22 @@
+.carusel-one
+{
+    width: auto;
+    height: 420px;
+    box-shadow: 2px 2px 15px 16px;
+    border-radius: 10px;
+    margin-top:30px;
+    
+}
+
+.testimonials-image
+{
+  border-radius: 10px;
+  height: 400px;
+  margin:10px;
+  transition: 0.5s;
+}
+.testimonials-image:hover
+{
+    transform: scale(1.1);
+}
+
